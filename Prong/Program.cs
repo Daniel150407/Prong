@@ -1,5 +1,5 @@
 /**
- *  Este jogo foi desenvolvido por Bruno Vinícius.
+ *  Este jogo foi desenvolvido por Bruno VinÃ­cius.
  **/
 
 using System;
@@ -15,6 +15,7 @@ namespace testekkk
         float xDaBola = 0;
         float yDaBola = 0;
         float tamanhoDaBola = 20;
+
         float velocidadeDaBolaEmX = 3;
         float velocidadeDaBolaEmY = 3;
 
